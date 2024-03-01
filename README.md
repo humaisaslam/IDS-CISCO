@@ -1,0 +1,2 @@
+This repository contains the implementation of an Intrusion Detection System (IDS) using Cisco Packet Tracer. The IDS is designed to monitor network traffic, detect suspicious activities, and report potential intrusions to network administrators. The project includes the configuration of network devices, the setup of various network protocols, and the implementation of security measures to protect against cyber threats.
+Just a demo of what network attack looks like 
